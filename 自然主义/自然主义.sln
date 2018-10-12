@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "naturalism", "E:\大创\大
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自然主义", "E:\大创\大创_自然主义\自然主义\自然主义\自然主义.csproj", "{52381C0D-EAAA-42D6-BAE9-66657B9E0A21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试", "测试\测试.csproj", "{11A2A694-7218-4AFB-B39C-0F31B8993E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,18 @@ Global
 		{52381C0D-EAAA-42D6-BAE9-66657B9E0A21}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{52381C0D-EAAA-42D6-BAE9-66657B9E0A21}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{52381C0D-EAAA-42D6-BAE9-66657B9E0A21}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Release|iPhone.Build.0 = Release|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{11A2A694-7218-4AFB-B39C-0F31B8993E92}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
